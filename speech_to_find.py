@@ -1,10 +1,7 @@
 import pyaudio
 import wave
-import audioop
-from collections import deque 
 import os
 import urllib2
-import urllib
 import time
 
 
