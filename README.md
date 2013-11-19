@@ -8,8 +8,10 @@ Usage
 -----
 
 You must have one PDF opened with Preview. 
+
 Write at the terminal: 
 python speech_to_find.py
+
 You'll have a few seconds until it says "* done recording" to say what you want to look for.
 
 Configuration
@@ -18,8 +20,9 @@ Configuration
 Changelog
 ---------
 
-[+] Remove hard coded variables
+[+] Remove hard coded variables.
 [+] Add function to parse Google's response.
+[+] Remove generated files when audio isn't decoded.
 
 Credits
 -------
