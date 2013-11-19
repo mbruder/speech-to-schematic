@@ -21,7 +21,9 @@ Changelog
 ---------
 
 [+] Remove hard coded variables.
+
 [+] Add function to parse Google's response.
+
 [+] Remove generated files when audio isn't decoded.
 
 Credits
